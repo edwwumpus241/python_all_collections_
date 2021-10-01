@@ -1,0 +1,41 @@
+#problem definition
+--------------------
+time management:membuat time schedule harian            
+====================
+#problem analysis
+--------------------
+variable input,operasi percabangan/kondisi,operator logika,print
+integer
+====================
+#algorithm development
+mulai
+print hallo silakan masukan waktu dan taruh deskripsi
+silakan masukkan waktu 1 :
+apakah mau menambah waktu? 
+jika user menjawab 0 maka tetap jika user menjawab 1 maka buat 2
+silakan masukkan waktu 2 :
+silakan masukkan waktu 3 :
+apakah mau menambah waktu lagi?
+jika user menjawab 0 maka tetap jika user menjawab 1 maka buat 2
+silakan masukkan waktu 4 :
+silakan masukan waktu 5 :
+apakah ini cukup?
+jika user menjawab 0 maka print semua timeline jika user menjawab 1 maka buat 2
+print semua timeline
+>>>
+
+
+mulai
+meminta pengguna memasukan angka jam
+pemeriksaan dan penentuan hasil:
+jika jam == 5 atau 6:tampilkan sedang siap siap untuk sekolah
+jika jam lebih besar = 7 dan lebih kecil = 8:tampilkan sedang belajar
+jika jam = 9:sedang istirahat pertama
+jika jam lebih besar = 10 dan lebih kecil dari 11:tampilkan sedang belajar
+jika jam = 12:tampilkan istirahat kedua
+jika jam = 13 atau  14: tampilkan sedang belajar
+jika jam = 15 : tampilkan pulang sekolaH
+jika jam lebih besar = 16 dan lebih kecil = 19:lihat tv atau baca novel atau kegiatan lainnya
+selain itu : tampilkan tidur malam
+selesai
+>>>

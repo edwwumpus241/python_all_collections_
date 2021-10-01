@@ -1,0 +1,85 @@
+
+ game theme : game opsi adventure to another city
+
+==================
+ problem definition :
+game ini adalah game opsi yang bercabang
+jawaban yang benar dapat menuntun ke hasil akhir atau "Victory"
+jawaban yang salah membuat anda harus restart atau "Lose"
+=====================================
+problem analysis :
+if,print,variabel,elif,else
+
+variabel
+input1 rintangan pertama mempunyai 3 opsi
+
+input2 rintangan kedua yang berisi 2 opsi
+
+input3 rintangan ketiga yang berisi 2 opsi
+
+input4 rintangan terakhir yang berisi 2 opsi
+
+if,elif,else
+untuk sistem percabangan dan jawaban
+
+print
+untuk mencetak hasil pilihan user 
+=====================================
+==================
+algorithm development
+
+1. mulai 
+2. cetak : hallo ini adalah game opsi adventure to another city
+3. cetak : ada seseorang yang membuat pesta saat kamu ke kota lain
+
+0 : ikut ke pesta
+1 : biarkan saja
+2 : biarkan dan pergi secepat  mungkin 
+
+4.1 jika input1 sama dengan 0 maka:
+cetak : kamu mengikuti pesta dan kamu lupa bahwa kamu harus ke kota lain. game over
+
+4.2 jika input1 sama dengan 1 maka:
+cetak : kamu membiarkan dan secara tiba tiba mereka membawamu ke pesta sampai pagi. game over
+
+4.3 jika input1 sama dengan 2 maka:
+cetak : kamu membiarkan pergi secepat mungkin dan secara tidak sadar kamu hampir sampai. stage  completed
+
+
+5. cetak : kamu melihat seseorang berjalan sangat cepat didekat mobil mu
+0: biarkan saja
+1: bertanya kepada orang itu
+
+6.1 jika input2 sama dengan 0 maka:
+ cetak : kamu membiarkan dia. stage completed
+
+6.2 jika input2 sama dengan 1 maka:
+ cetak : ternyata orang itu hanyalah fatamorgana dan kamu tidak sengaja menabrak mobil. game over 
+
+
+7.cetak : kamu sedang di tol jalannya sepi 
+0: ngebut
+1: tidak ngebut tapi santai
+
+8.1 jika input3 sama dengan 0 maka:
+cetak : setelah kamu ngebut ada batu besar dan mobil kamu terlempar lalu kamu dibawa ke rumah sakit. game over
+
+8.2 jika input3 sama dengan 1 maka:
+cetak : kamu sudah keluar dari tol. stage completed
+
+
+9. cetak : kamu melihat truk besar sekali ke arah kamu
+0: biarkan tetap maju
+1: berhenti
+
+10.1 jika input4 sama dengan 0 maka:
+cetak : ternyata itu adalah fatamorgana, kamu beruntung.stage completed
+
+11.cetak : kamu telah sampai dikota surabaya. horay. you win 
+
+10.2 jika input4 sama dengan 1 maka:
+cetak : ternyata itu adalah fatamorgana, kamu ditilang. game over
+ 
+12. selesai the end
+
+

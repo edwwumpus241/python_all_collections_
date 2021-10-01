@@ -1,0 +1,13 @@
+ 1.start : Nyalakan tv/laptop
+ 2. ambil kursi/duduk di sofa optional : berdiri
+ 3. ke aplikasi netflix
+ 4. ambil snack/minuman optional 
+ 5. pilih film/lanjutkan film
+ 6. lanjutkan/pilih film Dr. Stone
+ 7. Lihat sampai habis/habisin semua seri
+ 8. ambil remote
+ 9. berdiri dari kursi/sofa 
+ 10. buang snack di tong sampah kalau habis atau disimpan kalau ada
+ 11. cuci tangan
+ 12.end :  matikan tv
+ 
